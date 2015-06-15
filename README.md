@@ -18,7 +18,8 @@ Log Management
 - [Loggly (SaaS)](https://www.loggly.com)
 - [ELK (Open Source)](https://www.elastic.co/products/kibana)
 - [Logz.io (SaaS)](http://logz.io) - *Basically a ELK as a Service* 
-- 
+
+
 Configuration Management
 --------------
 - [Ansible](http://www.ansible.com)
