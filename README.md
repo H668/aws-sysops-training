@@ -27,6 +27,10 @@ Configuration Management
 - [Visual Ops (SaaS)](http://www.visualops.io) - *Drag-n-drop to build CloudFormation templates*
 - [Rainbow (Open Source)](https://github.com/EverythingMe/rainbow) - *CloudFormation on steroids*
 
+EC2 Scheduler
+--------------
+- [Skeddly](http://www.skeddly.com/)
+
 Static Content System Managements
 --------------
 - [Jekyll](http://jekyllrb.com) - *Host amazing websites on amazon S3*
