@@ -31,6 +31,10 @@ EC2 Scheduler
 --------------
 - [Skeddly](http://www.skeddly.com/)
 
+Load Test
+--------------
+- [Blitz](http://blitz.io)
+
 Static Content System Managements
 --------------
 - [Jekyll](http://jekyllrb.com) - *Host amazing websites on amazon S3*
